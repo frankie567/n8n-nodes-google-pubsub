@@ -1,6 +1,6 @@
 {
   "name": "n8n-google-pubsub-nodes",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Google Pub/Sub Nodes for n8n.",
   "license": "SEE LICENSE IN LICENSE.md",
   "homepage": "https://n8n.io",
