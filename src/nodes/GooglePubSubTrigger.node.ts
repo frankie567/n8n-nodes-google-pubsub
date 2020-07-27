@@ -9,14 +9,14 @@ import {
 
 export class GooglePubSubTrigger implements INodeType {
 	description: INodeTypeDescription = {
-		displayName: 'Google Pub/Sub',
-		name: 'googlePubSub',
+		displayName: 'Google Pub/Sub Trigger',
+		name: 'googlePubSubTrigger',
 		icon: 'file:googlePubSubTrigger.png',
 		group: ['trigger'],
 		version: 1,
 		description: 'Listens to Google Pub/Sub messages',
 		defaults: {
-			name: 'Google Pub/Sub',
+			name: 'Google Pub/Sub Trigger',
 			color: '#1A73E8',
 		},
 		inputs: [],
