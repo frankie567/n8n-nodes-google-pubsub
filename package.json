@@ -30,7 +30,7 @@
     "gulp": "^4.0.0",
     "jest": "^24.9.0",
     "n8n-core": "^0.39.0",
-    "n8n-workflow": "~0.35.0",
+    "n8n-workflow": "~0.36.0",
     "ts-jest": "^24.0.2",
     "tslint": "^5.17.0",
     "typescript": "~3.7.4"
