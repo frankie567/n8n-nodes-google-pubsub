@@ -1,5 +1,5 @@
 {
-  "name": "n8n-google-pubsub-nodes",
+  "name": "n8n-nodes-google-pubsub",
   "version": "0.1.2",
   "description": "Google Pub/Sub Nodes for n8n.",
   "license": "SEE LICENSE IN LICENSE.md",
@@ -37,6 +37,11 @@
   },
   "dependencies": {
     "@google-cloud/pubsub": "^2.3.0"
+  },
+  "n8n": {
+    "nodes": [
+      "dist/nodes/GooglePubSubTrigger.node.js"
+    ]
   },
   "jest": {
     "transform": {
