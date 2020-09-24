@@ -29,7 +29,7 @@
     "@types/request-promise-native": "^1.0.17",
     "gulp": "^4.0.0",
     "jest": "^26.4.0",
-    "n8n-core": "^0.41.0",
+    "n8n-core": "^0.47.0",
     "n8n-workflow": "~0.37.0",
     "ts-jest": "^26.2.0",
     "tslint": "^6.1.3",
