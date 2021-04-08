@@ -33,7 +33,7 @@
     "n8n-workflow": "^0.42.0",
     "ts-jest": "^26.4.0",
     "tslint": "^6.1.3",
-    "typescript": "~3.9.7"
+    "typescript": "~4.2.4"
   },
   "dependencies": {
     "@google-cloud/pubsub": "^2.5.0"
